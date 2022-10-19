@@ -1,0 +1,5 @@
+historia de alexander
+aca vamos a procedder a llenar algunas lineas importantes para comezar a practicar el uso de visul estudio.
+al igual que el uso de bash y la consola, git y todas esas cosas que nos parecen importantes.
+bla
+blablah
