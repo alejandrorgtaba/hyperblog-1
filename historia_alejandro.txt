@@ -3,3 +3,5 @@ aca vamos a procedder a llenar algunas lineas importantes para comezar a practic
 al igual que el uso de bash y la consola, git y todas esas cosas que nos parecen importantes.
 bla
 blablah
+este es el primer cambio que hago, no puse mi edad que es 29 actualmente
+
