@@ -5,6 +5,7 @@ bla
 blablah
 este es el primer cambio que hago, no puse mi edad que es 29 actualmente
 
- estoy aprendiendo a programar
- empece con python, peor descubri que me hacia falta git.
+estoy aprendiendo a programar
+empece con python, pero descubri que me hacia falta git.
+ Hoy es estudiante, manana sera otra cosa
 
