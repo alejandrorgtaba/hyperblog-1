@@ -8,4 +8,7 @@ este es el primer cambio que hago, no puse mi edad que es 29 actualmente
 estoy aprendiendo a programar
 empece con python, pero descubri que me hacia falta git.
  Hoy es estudiante, manana sera otra cosa
+ 
+ 
+ Primero cambio realizado desde github, para probar como se realizan los commits, espero sea un exito.
 
